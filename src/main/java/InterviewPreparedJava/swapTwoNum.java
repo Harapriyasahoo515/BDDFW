@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class swapTwoNum {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         int a=10;
         int b=20;
 

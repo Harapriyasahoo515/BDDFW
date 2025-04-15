@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class PrimeNumber {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         int n=2;
 //        int count=0;
 //        for (int i=1;i<=n;i++){

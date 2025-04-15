@@ -3,7 +3,7 @@ package InterviewPreparedJava;
 import java.util.Arrays;
 
 public class Large_smallNumArray {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         int num[]={-4,26,8,78446,-9};
 
         int largest=num[0];

@@ -1,9 +1,9 @@
 package InterviewPreparedJava;
 
 public class swaptwostring {
-    public static void main(StringPractice[] args) {
-        StringPractice a = "Hello";
-        StringPractice b = "World";
+    public static void main(String[] args) {
+        String a = "Hello";
+        String b = "World";
         System.out.println("before swap "+a);
         System.out.println("before swap "+b);
         a=a+b;

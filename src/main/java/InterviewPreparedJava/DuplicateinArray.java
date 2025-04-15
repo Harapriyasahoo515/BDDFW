@@ -3,8 +3,8 @@ package InterviewPreparedJava;
 import java.util.HashSet;
 
 public class DuplicateinArray {
-    public static void main(StringPractice[] args) {
-        StringPractice[] arr ={"C","C","java","python","java"};
+    public static void main(String[] args) {
+        String[] arr ={"C","C","java","python","java"};
 
         for(int i=0;i<arr.length;i++){
             for(int j=i+1;j<arr.length;j++){
@@ -15,8 +15,8 @@ public class DuplicateinArray {
         }
         System.out.println("-----------");
         //Hashset
-        HashSet<StringPractice> hs=new HashSet<StringPractice>();
-        for(StringPractice s:arr){
+        HashSet<String> hs=new HashSet<String>();
+        for(String s:arr){
             if(hs.add(s)==false){
                 System.out.println(s);
             }

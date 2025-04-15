@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class MissingNoinArray {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
 
         int a[]={1,2,3,5};
         int sum=0;

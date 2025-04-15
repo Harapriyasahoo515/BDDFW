@@ -1,12 +1,12 @@
 package InterviewPreparedJava;
 
 public class DuplicateWord {
-    public static void main(StringPractice[] args) {
-        StringPractice s="Big black bug bit a big black dog on his big black nose";
+    public static void main(String[] args) {
+        String s="Big black bug bit a big black dog on his big black nose";
         int count;
 
         s=s.toLowerCase();
-        StringPractice[] word = s.split(" ");
+        String[] word = s.split(" ");
 
         for(int i=0;i<word.length;i++)
         {

@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class ReverseInteger {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
 
         int a=12345;
         int rev=0;

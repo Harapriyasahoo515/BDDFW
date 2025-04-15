@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class PalindromNum {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         isPalindrom(1341);
 
     }

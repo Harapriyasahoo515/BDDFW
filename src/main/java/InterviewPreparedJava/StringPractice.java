@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class StringPractice {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         String s1="abc";
         String s2="pqr";
         //output-apbqcr

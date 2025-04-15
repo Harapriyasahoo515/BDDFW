@@ -1,7 +1,7 @@
 package InterviewPreparedJava;
 
 public class AmstrongNum {
-    public static void main(StringPractice[] args) {
+    public static void main(String[] args) {
         isAmstrong(153);
     }
 
