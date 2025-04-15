@@ -1,0 +1,8 @@
+22:21:08.263 [main]INFO  automationUtilities.BaseClass - User in the application
+22:21:08.271 [main]INFO  stepDefination.OpenLoginPageStepDef - Navigate to the browser
+22:21:08.308 [main]INFO  stepDefination.OpenLoginPageStepDef - Navigate to the URL
+22:21:27.320 [main]INFO  stepDefination.OpenLoginPageStepDef - Browser closed
+15:37:43.033 [main]INFO  automationUtilities.BaseClass - User in the application
+15:37:43.040 [main]INFO  stepDefination.OpenLoginPageStepDef - Navigate to the browser
+15:37:43.067 [main]INFO  stepDefination.OpenLoginPageStepDef - Navigate to the URL
+15:37:48.852 [main]INFO  stepDefination.OpenLoginPageStepDef - Browser closed
